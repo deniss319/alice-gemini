@@ -1,0 +1,10 @@
+{
+  "name": "alice-gemini-netlify",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Навык Яндекс Алисы на Gemini (Netlify Functions)",
+  "engines": {
+    "node": ">=22"
+  }
+}
